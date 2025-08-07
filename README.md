@@ -1,2 +1,3 @@
 Done in Php and Personal Oracle 10g
-dmp file is there. Import in your Oracle installation
+dmp file is there for tables used. 
+Import qrfeedback.dmp in your Oracle installation
